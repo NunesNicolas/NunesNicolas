@@ -31,7 +31,7 @@ Minhas principais competências incluem:
 
 *   **Sistema de Otimização para Promotores de Venda (BRISA):** Durante minha experiência na BRISA, atuei no desenvolvimento de um sistema web para otimizar os serviços de promotores de venda e seus gerentes. Este sistema, dividido em versões desktop (para gerentes) e mobile (para promotores), auxilia no acompanhamento de vendas e programas físicos de produtos, utilizando tecnologias como Laravel, Vue.js e MariaDB.
 
-*   **MerchanTrack:** Um projeto desenvolvido em JavaScript, focado em aprimorar a jornada de trabalho do promotor de venda, permitindo-lhe acesso aum painel e app que agregam a seu trabalho. ([https://github.com/NunesNicolas/merchanTrack](https://github.com/NunesNicolas/merchanTrack))
+*   **MerchanTrack:** Um projeto desenvolvido em JavaScript, focado em aprimorar a jornada de trabalho do promotor de venda, permitindo-lhe acesso a um painel e app que agregam a seu trabalho. ([https://github.com/NunesNicolas/merchanTrack](https://github.com/NunesNicolas/merchanTrack))
 
 *   **Locadora Digital:** Projeto de disciplina de Programação Orientada a Objetos (POO) desenvolvido em Java. ([https://github.com/NunesNicolas/Locadora-Digital](https://github.com/NunesNicolas/Locadora-Digital))
 
